@@ -23,15 +23,8 @@
     <div class="form-container sign-up-container">
         <form action="/register" method="post" role="form">
             <h1>Create Account</h1>
-            <div class="social-container">
-                <img src="css/icons/fb_icon.jpg">
-                <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
-                <img src="css/icons/g+_icon.png">
-                <a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
-                <img src="css/icons/linkedin_icon.png">
-                <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
-            </div>
-            <span>or use your email for registration</span>
+
+            <span>Please use your email for registration</span>
             <input type="text" name="name" id="name" placeholder="Name"/>
             <input type="text" name="surname" id="surname" placeholder="Surname"/>
             <input type="email" name="email" id="email" placeholder="Email"/>
