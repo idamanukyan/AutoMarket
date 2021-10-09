@@ -21,7 +21,7 @@ import java.util.Date;
         maxRequestSize = 1024 * 1024 * 100   // 100 MB
 )
 public class AddCarServlet extends HttpServlet {
-    private static final String UPLOAD_DIR = "C:\\Users\\Admin\\Desktop\\Java\\ItSpaceLessons\\auto_am\\uploaded_images";
+    private static final String UPLOAD_DIR = "C:\\Users\\Admin\\Desktop\\JAVA 2021\\auto_am\\uploaded_images";
 
     private CarManager carManager = new CarManager();
 

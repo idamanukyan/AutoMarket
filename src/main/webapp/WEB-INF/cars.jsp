@@ -29,11 +29,7 @@
     </div>
 </div>--%>
 
-<div class="top">
-    <div class="button">
-        <a href="/addCar" class="button"><b>Add new car</b></a>
-    </div>
-</div>
+
 
 
 <div class="container">
